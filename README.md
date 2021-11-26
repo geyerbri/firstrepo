@@ -1,2 +1,2 @@
 # firstrepo
-My first repository.
+My first amazing repository.
